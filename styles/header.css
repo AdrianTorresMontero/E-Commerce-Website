@@ -1,0 +1,37 @@
+.header{
+  display:flex;
+  position: fixed;
+  left: 0px;
+  right: 0px;
+  top: 0px;
+  height: 70px;
+  background-color: rgb(128, 55, 144);
+  font-weight: bold;
+  z-index: 10;
+}
+
+.burger-menu,
+.web-name,
+.shopping-cart{
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.burger-icon,
+.shopping-cart-icon{
+  width: 30px;
+}
+
+
+.icon-container{
+  background:none;
+  border: none;
+  cursor: pointer;
+  padding: 0px;
+}
+
+.world{
+  color: rgb(128, 0, 32);
+}
