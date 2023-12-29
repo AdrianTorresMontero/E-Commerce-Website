@@ -7,7 +7,7 @@
   height: 70px;
   background-color: rgb(128, 55, 144);
   font-weight: bold;
-  z-index: 10;
+  z-index: 1;
 }
 
 .burger-menu,

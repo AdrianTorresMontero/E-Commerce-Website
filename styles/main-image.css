@@ -1,10 +1,9 @@
 .main-image{
   position: relative;
   left: 0px;
-  right: 0px;
+  width: 100%;
   top:70px;
-  height: 700px;
-  background-color: lightseagreen;
+  height: 100vh;
 }
 
 .setup{
@@ -35,4 +34,5 @@
   border: none;
   padding: 8px 30px;
   font-size: 20px;
+  cursor: pointer;
 }
